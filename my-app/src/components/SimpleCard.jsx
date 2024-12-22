@@ -1,5 +1,7 @@
 import "./Card.css";
 
+/** This file provides an example for a component with no props */
+
 const SimpleCard = () => {
     return (
         <div className="card">

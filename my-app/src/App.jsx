@@ -1,13 +1,15 @@
-import Card from "./components/Card";
 import "./App.css";
+/**
+ * Import the respective files from the workshop to see what they do
+ * Avalible files are: BasicExample.jsx, CallingCards.jsx, StateExample.jsx
+ **/ 
+
 
 const App = () => {
-  return (
-    <>
-      <h1>Cards</h1>
-      <Card title="Card 1" desc="This is a card" />
-    </>
-  )
+    return (
+        <>
+        </>
+    );
 }
 
 export default App;
