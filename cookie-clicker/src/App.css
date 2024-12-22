@@ -3,7 +3,14 @@
   text-align: center;
 }
 
-.samosa {
+body {
+  background-image: url("https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3JtNjgyZGVzaWduYmF0Y2gyLXJlbWl4LWF3LTAzLmpwZw.jpg");
+  background-size: cover;
+  color: black;
+  text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cookie {
   height: 15em;
   padding: 1.5em;
   margin: 0 auto;
