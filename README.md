@@ -3,7 +3,8 @@
 Thank you for attending UCSC Blueprint's React workshop. This repo is a collection of the code covered in the workshop.
 
 ## my-app
-This folder contains all the code snippets from the slideshow. To run speicific snipits import the respective component into App.jsx and see the outcome
+This folder contains all the code snippets from the slideshow. To run specific snippets import the respective component into App.jsx and see the outcome. 
+To see the code from the slides navigate to my-app/src. 
 
 ## cookie-clicker
 This folder contains a mini cookie clicker. It applies the fundamentals learned in this workshop to create a mini cookie clicker.
