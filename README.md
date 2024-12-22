@@ -12,3 +12,5 @@ This folder contains a mini cookie clicker. It applies the fundamentals learned 
 * Change your directory to the respective folder
 * Run `npm install` followed by `npm run dev`
 As the folders in this repo use Vite using `npm run dev` will allow for live updates compared to the usual method used to start running React apps, `npm start`.
+
+## [Slides for the workshop](https://docs.google.com/presentation/d/1mNojhY2eiMtoXaQsa_x9YsAvE41zUvJQ-aBEEAgHNeI)
